@@ -1,0 +1,7 @@
+{
+  "name": "brunch-sass",
+  "version": "0.1.0",
+  "devDependencies": {
+    "sass-brunch": "^2.0.0"
+  }
+}
