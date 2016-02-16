@@ -1,4 +1,4 @@
-# Simple Brunch Example
+# Brunch Sass
 
 A Simple Example of how to use brunch to compile sass files
 
